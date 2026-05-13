@@ -1,16 +1,116 @@
-## Hi there 👋
+# Hi, I'm Mukund Ummadisetti 👋
 
-<!--
-**mukund-setti/mukund-setti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%E2%80%A2+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA) — graduating December 2026
+- 🤖 Currently building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
+- 🛰️ Co-authoring a **NASA L'SPACE** mission proposal for autonomous proximity operations
+- 🚁 Computer Vision Engineer @ **UAV Forge** — fine-tuning YOLO + VGGT for aerial detection
+- 💼 Previously: **SWE Intern @ Wells Fargo**, shipping consent APIs serving millions of users
+- 👨‍🏫 Learning Assistant for undergrad CS courses @ UCI
+- 📫 Reach me: **Mukund.setti@gmail.com**
+
+---
+
+## 🛠️ Skill Set
+
+<table><tr><td valign="top" width="33%">
+
+### AI / ML
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow&perline=4" />
+</div>
+<div align="center">
+  <sub>LangGraph · LangChain · MCP · RAG · YOLO · pgvector</sub>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend & Infra
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,aws,linux&perline=3" />
+</div>
+<div align="center">
+  <sub>REST APIs · OAuth 2.0 · Microservices · CI/CD</sub>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nodejs,git&perline=4" />
+</div>
+<div align="center">
+  <sub>Python · TypeScript · Java · C/C++ · SQL</sub>
+</div>
+
+</td></tr></table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🧠 **[Brian — Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026 — Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval | LangGraph · FastAPI · pgvector · TypeScript |
+| 🚁 **[UAV Forge Perception](https://github.com/uci-uav-forge)** | Fine-tuned YOLO improving aerial detection by 32%; VGGT for real-time depth + 3D point clouds | PyTorch · OpenCV · YOLO |
+| 🛰️ **UCI CanSat 2025–26** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control | Python · C/C++ · Embedded |
+| 😀 **[Emotion Detection](https://github.com/lumakyns/EmotionFacialDetection)** | 83.3% on 13K+ images using SVM+HOG and CNN; outperformed DeepFace baseline by 15% | PyTorch · scikit-learn · OpenCV |
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mukundummadisetti/" target="_blank">
+    <img src="https://img.shields.io/badge/-Mukund%20Ummadisetti-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Mukund.setti@gmail.com">
+    <img src="https://img.shields.io/badge/-Mukund.setti@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mukund-setti" target="_blank">
+    <img src="https://img.shields.io/badge/-mukund--setti-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/mukund-setti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukund-setti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-setti&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mukund-setti">
+    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=1a1b27&color=a9b1d6&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mukund-setti">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-setti&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mukund-setti&theme=tokyonight&no-frame=true&row=1&column=7" />
+  </a>
+</div>
