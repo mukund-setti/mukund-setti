@@ -3,7 +3,7 @@
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
   </a>
 </p>
 
@@ -74,16 +74,16 @@
 
 <div align="center">
   <a href="https://mukundummadisetti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mukundummadisetti/" target="_blank">
     <img src="https://img.shields.io/badge/-Mukund%20Ummadisetti-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:Mukund.setti@gmail.com">
-    <img src="https://img.shields.io/badge/-Mukund.setti@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mukund.setti@gmail.com-B45309?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mukund-setti" target="_blank">
-    <img src="https://img.shields.io/badge/-mukund--setti-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-mukund--setti-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -93,26 +93,26 @@
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=solarized_dark" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=solarized_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=dracula&utcOffset=-8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=solarized_dark&utcOffset=-8" />
 </p>
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=1a1b27&color=a9b1d6&line=4C1D95&point=ffffff&area=true&area_color=4C1D95&hide_border=true" />
+    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=0F172A&color=E5E7EB&line=B45309&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=4C1D95&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS" />
 </p>
