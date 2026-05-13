@@ -23,6 +23,32 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/mukund-setti">
+    <img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=solarized_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=solarized_dark" />
+  <img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=solarized_dark" />
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=solarized_dark" />
+  <img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=solarized_dark&utcOffset=-8" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mukund-setti">
+    <img loading="lazy" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=0F172A&color=E5E7EB&line=B45309&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -86,32 +112,6 @@
     <img src="https://img.shields.io/badge/-mukund--setti-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mukund-setti">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=solarized_dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=solarized_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=solarized_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=solarized_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=solarized_dark&utcOffset=-8" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mukund-setti">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=0F172A&color=E5E7EB&line=B45309&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS" />
