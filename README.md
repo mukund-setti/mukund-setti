@@ -3,7 +3,7 @@
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%E2%80%A2+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,10 +11,10 @@
 
 ## 🧠 About Me
 
-- 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA) — graduating December 2026
+- 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA), graduating December 2026
 - 🤖 Currently building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
 - 🛰️ Co-authoring a **NASA L'SPACE** mission proposal for autonomous proximity operations
-- 🚁 Computer Vision Engineer @ **UAV Forge** — fine-tuning YOLO + VGGT for aerial detection
+- 🚁 Computer Vision Engineer @ **UAV Forge**: fine-tuning YOLO + VGGT for aerial detection
 - 💼 Previously: **SWE Intern @ Wells Fargo**, shipping consent APIs serving millions of users
 - 👨‍🏫 Learning Assistant for undergrad CS courses @ UCI
 - 📫 Reach me: **Mukund.setti@gmail.com**
@@ -61,9 +61,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧠 **[Brian — Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026 — Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval | LangGraph · FastAPI · pgvector · TypeScript |
+| 🧠 **[Brian: Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026. Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval | LangGraph · FastAPI · pgvector · TypeScript |
 | 🚁 **[UAV Forge Perception](https://github.com/uci-uav-forge)** | Fine-tuned YOLO improving aerial detection by 32%; VGGT for real-time depth + 3D point clouds | PyTorch · OpenCV · YOLO |
-| 🛰️ **[UCI CanSat 2025–26](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control | Python · C/C++ · Embedded |
+| 🛰️ **[UCI CanSat 2025-26](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control | Python · C/C++ · Embedded |
 | 😀 **[Emotion Detection](https://github.com/lumakyns/EmotionFacialDetection)** | 83.3% on 13K+ images using SVM+HOG and CNN; outperformed DeepFace baseline by 15% | PyTorch · scikit-learn · OpenCV |
 
 ---
