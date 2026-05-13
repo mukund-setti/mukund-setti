@@ -63,7 +63,7 @@
 |---------|-------------|-------|
 | 🧠 **[Brian — Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026 — Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval | LangGraph · FastAPI · pgvector · TypeScript |
 | 🚁 **[UAV Forge Perception](https://github.com/uci-uav-forge)** | Fine-tuned YOLO improving aerial detection by 32%; VGGT for real-time depth + 3D point clouds | PyTorch · OpenCV · YOLO |
-| 🛰️ **UCI CanSat 2025–26** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control | Python · C/C++ · Embedded |
+| 🛰️ **[UCI CanSat 2025–26](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control | Python · C/C++ · Embedded |
 | 😀 **[Emotion Detection](https://github.com/lumakyns/EmotionFacialDetection)** | 83.3% on 13K+ images using SVM+HOG and CNN; outperformed DeepFace baseline by 15% | PyTorch · scikit-learn · OpenCV |
 
 ---
@@ -88,9 +88,18 @@
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukund-setti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-setti&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=tokyonight" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=tokyonight&utcOffset=-8" />
 </p>
 
 <p align="center">
@@ -100,17 +109,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mukund-setti">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-setti&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mukund-setti&theme=tokyonight&no-frame=true&row=1&column=7" />
-  </a>
-</div>
