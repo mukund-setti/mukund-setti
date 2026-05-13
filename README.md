@@ -3,7 +3,7 @@
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://mukundummadisetti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mukundummadisetti/" target="_blank">
     <img src="https://img.shields.io/badge/-Mukund%20Ummadisetti-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -109,10 +109,10 @@
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=1a1b27&color=a9b1d6&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
+    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=1a1b27&color=a9b1d6&line=4C1D95&point=ffffff&area=true&area_color=4C1D95&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=mukund-setti&style=for-the-badge&color=4C1D95&label=PROFILE+VIEWS" />
 </p>
