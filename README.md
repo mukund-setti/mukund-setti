@@ -93,18 +93,18 @@
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-setti&theme=dracula" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukund-setti&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukund-setti&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=tokyonight&utcOffset=-8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukund-setti&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukund-setti&theme=dracula&utcOffset=-8" />
 </p>
 
 <p align="center">
