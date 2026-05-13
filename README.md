@@ -9,18 +9,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA), graduating December 2026
-- 🤖 Currently building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
-- 🛰️ Co-authoring a **NASA L'SPACE** mission proposal for autonomous proximity operations
-- 🚁 Computer Vision Engineer @ **UAV Forge**: fine-tuning YOLO + VGGT for aerial detection
-- 💼 Previously: **SWE Intern @ Wells Fargo**, shipping consent APIs serving millions of users
-- 👨‍🏫 Learning Assistant for undergrad CS courses @ UCI
-- 📫 Reach me: **Mukund.setti@gmail.com**
-
----
-
 ## 🛠️ Skill Set
 
 <table><tr><td valign="top" width="33%">
