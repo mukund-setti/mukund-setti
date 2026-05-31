@@ -3,7 +3,7 @@
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+data+%2B+AI+systems+on+Databricks;Autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 
 - 🌐 **Portfolio:** [mukundummadisetti.vercel.app](https://mukundummadisetti.vercel.app/)
 - 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA), graduating December 2026
-- 🤖 Currently building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
+- 🧱 Building **data + AI systems** with Databricks, PySpark, Delta Lake, MLflow, and Vector Search
+- 🤖 Building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
 - 🔬 Researching **HCI tools for blind developers** @ UCI
 - 🛰️ Co-authoring a **NASA L'SPACE** mission proposal for autonomous proximity operations
 - 🚁 Computer Vision Engineer @ **UAV Forge**: fine-tuning YOLO + VGGT for aerial detection
@@ -63,12 +64,12 @@
 
 </td><td valign="top" width="33%">
 
-### Backend & Infra
+### Data & Backend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,aws,linux&perline=3" />
 </div>
 <div align="center">
-  <sub>REST APIs · OAuth 2.0 · Microservices · CI/CD</sub>
+  <sub>Databricks · PySpark · Delta Lake · MLflow · REST APIs · OAuth 2.0</sub>
 </div>
 
 </td><td valign="top" width="33%">
@@ -89,10 +90,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧠 **[Brian: Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026. Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval | LangGraph · FastAPI · pgvector · TypeScript |
-| 🚁 **[UAV Forge Perception](https://github.com/uci-uav-forge)** | Fine-tuned YOLO improving aerial detection by 32%; VGGT for real-time depth + 3D point clouds | PyTorch · OpenCV · YOLO |
-| 🛰️ **[UCI CanSat 2025-26](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control | Python · C/C++ · Embedded |
-| 😀 **[Emotion Detection](https://github.com/lumakyns/EmotionFacialDetection)** | 83.3% on 13K+ images using SVM+HOG and CNN; outperformed DeepFace baseline by 15% | PyTorch · scikit-learn · OpenCV |
+| 🧱 **[Astroturf: Regulatory Intelligence Platform](https://astroturflive.vercel.app/)** | Databricks-backed multi-agent lakehouse platform for detecting coordinated public comment campaigns across federal rulemaking dockets. Processes 211K+ public comments with Bronze/Silver/Gold Delta pipelines, Foundation Model embeddings, Vector Search, MLflow tracking, and a live Next.js dashboard. | Databricks · PySpark · Delta Lake · Unity Catalog · MLflow · Vector Search · Next.js |
+| 🧠 **[Brian: Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026. Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval for GitHub, Slack, and meeting transcript workflows. | LangGraph · FastAPI · pgvector · MCP · TypeScript |
+| 🚨 **[HazAlert: Multilingual AI Emergency Dashboard](https://devpost.com/software/hazalert)** | 1st Place at Commit the Change x Google Gemini Prompt-a-Thon. Voice-first emergency dashboard combining 11 Google Cloud and Gemini AI services for evacuation routing, translation, and accessibility-focused disaster response. | Gemini API · GCP · React · Maps APIs · Translation |
+| 🚁 **[UAV Forge Perception](https://github.com/uci-uav-forge)** | Fine-tuned YOLO improving aerial detection by 32%; integrated Vision Transformer-based depth estimation for real-time 3D point cloud generation on low-power edge flight hardware. | PyTorch · OpenCV · YOLO · Computer Vision |
+| 🛰️ **[UCI CanSat 2025-26](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control, sensor fusion, flight-state management, and fault recovery. | Python · C/C++ · Embedded · PyQt5 |
+| 😀 **[Emotion Detection](https://github.com/lumakyns/EmotionFacialDetection)** | 83.3% accuracy on 13K+ images using SVM+HOG and CNN models; outperformed DeepFace baseline by 15%. | PyTorch · scikit-learn · OpenCV |
 
 ---
 
