@@ -3,7 +3,7 @@
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+data+%2B+AI+systems+on+Databricks;Autonomous+AI+agents+%F0%9F%A4%96;Computer+Vision+for+UAVs+%26+Spacecraft+%F0%9F%9B%B0%EF%B8%8F;ex-Wells+Fargo+SWE+Intern" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=CS+%40+UC+Irvine+%7C+Regents'+Scholar;Building+Data+%2B+AI+Platforms+on+Databricks;Architecting+Autonomous+AI+Agents+%F0%9F%A4%96;Core+LLM+Infrastructure+%26+Distributed+Systems;Ex-Wells+Fargo+Software+Engineering+Intern" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,21 +11,70 @@
 
 ## 🧠 About Me
 
+I am a Computer Science student at UC Irvine specializing in distributed data systems, infrastructure engineering, and applied AI/ML. I focus on taking complex machine learning prototypes and hardening them into scalable, high-throughput production architectures.
+
+- 🎓 **CS @ UC Irvine** (Regents' Scholar, Dean's List), Graduating December 2026
+- 🧱 **Data & AI Systems:** Designing enterprise-grade Medallion Lakehouses using Databricks, PySpark, Unity Catalog, and Delta Lake
+- 🤖 **Agentic Frameworks:** Engineering stateful, multi-agent workflows using LangGraph and Model Context Protocol (MCP) servers
+- ⚡ **Core Systems:** Building high-performance LLM routing, micro-batching, and semantic caching infrastructure in Go
+- 💼 **Industry Experience:** Previously Software Engineering Intern @ **Wells Fargo**, shipping secure, high-coverage consumer APIs
+- 🔬 **Research & Leadership:** Computer Vision Engineer @ **UAV Forge**, Proposal Fellow for **NASA L'SPACE**, and HCI researcher for accessibility development tooling @ UCI
+- 👨‍🏫 **Mentorship:** Undergraduate Teaching Assistant / Learning Assistant for computer science courses @ UCI
 - 🌐 **Portfolio:** [mukundummadisetti.vercel.app](https://mukundummadisetti.vercel.app/)
-- 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA), graduating December 2026
-- 🧱 Building **data + AI systems** with Databricks, PySpark, Delta Lake, MLflow, and Vector Search
-- 🤖 Building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
-- ⚡ Building **LLM infrastructure** in Go: inference gateways with semantic caching and batching
-- 🔬 Researching **HCI tools for blind developers** @ UCI
-- 🛰️ Co-authoring a **NASA L'SPACE** mission proposal for autonomous proximity operations
-- 🚁 Computer Vision Engineer @ **UAV Forge**: fine-tuning YOLO + VGGT for aerial detection
-- 💼 Previously: **SWE Intern @ Wells Fargo**, shipping consent APIs serving millions of users
-- 👨‍🏫 Learning Assistant for undergrad CS courses @ UCI
-- 📫 Reach me: **Mukund.setti@gmail.com**
+- 📫 **Reach Me:** [Mukund.setti@gmail.com](mailto:Mukund.setti@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Skill Set
+
+<table><tr><td valign="top" width="33%">
+
+### AI / ML / CV
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow&perline=4" />
+</div>
+<div align="center">
+  <sub>LangGraph · Model Context Protocol (MCP) · RAG · YOLO · Vector Search · pgvector</sub>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Cloud & Data Engineering
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,redis,aws,linux&perline=4" />
+</div>
+<div align="center">
+  <sub>Databricks (Serverless, Unity Catalog, Jobs API) · PySpark · Delta Lake · MLflow · Prometheus · Grafana · OAuth 2.0</sub>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Languages & Core Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,react,nodejs,git&perline=5" />
+</div>
+<div align="center">
+  <sub>Go · Python · TypeScript · Java · C/C++ · SQL · Next.js · Tailwind CSS</sub>
+</div>
+
+</td></tr></table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🧱 **[Astroturf: Regulatory Intelligence Platform](https://astroturflive.vercel.app/)** | **Databricks-native multi-agent Lakehouse platform** engineered to track coordinated campaigns across federal dockets. Processes **211K+ public comments** through a 6-agent Medallion architecture. Utilizes Foundation Model API embeddings, Vector Search for semantic nearest-neighbor evaluation, and automated Databricks Jobs API workflows. Refactored storage paths to native Spark Delta MERGE operations to guarantee transaction idempotency. | Databricks · PySpark · Delta Lake · Unity Catalog · MLflow · Vector Search · Next.js |
+| ⚡ **[Velo: LLM Inference Gateway](https://velocity-dashboard-omega.vercel.app/)** | High-performance, self-hostable, OpenAI-compatible LLM gateway written in **Go**. Implements semantic prompt caching with pgvector, dynamic request micro-batching, multi-backend failover routing, and Redis-backed rate limiting. Instrumenting the pipeline with Prometheus and Grafana demonstrated **130% higher requests per second** and an **84% reduction in p50 latency** at 60% prompt reuse. | Go · pgvector · Redis · Prometheus · Grafana · Docker |
+| 🚨 **[HazAlert: Multilingual AI Emergency Dashboard](https://devpost.com/software/hazalert)** | **1st Place out of competitive team entries at the Commit the Change x Google Gemini Prompt-a-Thon.** Orchestrated 11 core Google Cloud and Gemini AI services into a cohesive voice-first dashboard. Developed low-latency telemetry translation pipelines and highly accessible frontend map routing workflows to assist users in identifying safer evacuation paths during crisis events. | Gemini API · GCP · React · Google Maps APIs · Core Translation |
+| 🧠 **[Brian: Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | Developed at LA Hacks 2026. Architected a stateful multi-agent system using **LangGraph** configured with custom Reader and Writer agents for multi-step execution over corporate data streams. Engineered a custom Model Context Protocol (**MCP**) tool server alongside a two-stage hybrid vector + BM25 RAG pipeline utilizing pgvector and cross-encoder reranking layers. | LangGraph · FastAPI · pgvector · MCP · TypeScript · PostgreSQL |
+| 🚁 **[UAV Forge Perception Platform](https://github.com/uci-uav-forge)** | Built automated synthetic-data pipelines in Python and fine-tuned deep learning **YOLO architectures in PyTorch**, increasing aerial target detection accuracy by 32%. Optimized edge deployment constraints by implementing INT8 post-training model quantization, reducing inference latency by 40% to meet low-power flight hardware thresholds. | PyTorch · OpenCV · YOLO · Vision Transformers (ViT) |
+| 🛰️ **[UCI CanSat Telemetry & Control](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Programmed modular, bare-metal flight software in **C/C++** running on STM32 microcontrollers to support real-time sensor fusion and non-volatile flash-backed fault recovery. Developed an asynchronous Python ground telemetry application using PyQt5 and Matplotlib to parse and chart downlinked flight telemetry in real-time. | C/C++ · Python · STM32 · Embedded Systems · PyQt5 |
+
+---
+
+## 📊 GitHub Performance Diagnostics
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
@@ -45,63 +94,13 @@
 
 <p align="center">
   <a href="https://github.com/mukund-setti">
-    <img loading="lazy" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=0F172A&color=E5E7EB&line=B45309&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" />
+    <img loading="lazy" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-setti&bg_color=0F172A&color=E5E7EB&line=B45309&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Skill Set
-
-<table><tr><td valign="top" width="33%">
-
-### AI / ML
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow&perline=4" />
-</div>
-<div align="center">
-  <sub>LangGraph · LangChain · MCP · RAG · YOLO · pgvector</sub>
-</div>
-
-</td><td valign="top" width="33%">
-
-### Data & Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,redis,aws,linux&perline=4" />
-</div>
-<div align="center">
-  <sub>Databricks · PySpark · Delta Lake · MLflow · Prometheus · Grafana · OAuth 2.0</sub>
-</div>
-
-</td><td valign="top" width="33%">
-
-### Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,react,nodejs,git&perline=5" />
-</div>
-<div align="center">
-  <sub>Python · TypeScript · Go · Java · C/C++ · SQL</sub>
-</div>
-
-</td></tr></table>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| ⚡ **[Velo: LLM Inference Gateway](https://velocity-dashboard-omega.vercel.app/)** | Self-hostable, OpenAI-compatible LLM gateway in Go. Semantic prompt caching (pgvector), request micro-batching, per-key Redis rate limiting, and multi-backend failover, instrumented with Prometheus and Grafana. Benchmarked on the real stack at 60% prompt reuse: 130% more requests per second and 84% lower p50 latency. | Go · pgvector · Redis · Prometheus · Docker |
-| 🧱 **[Astroturf: Regulatory Intelligence Platform](https://astroturflive.vercel.app/)** | Databricks-backed multi-agent lakehouse platform for detecting coordinated public comment campaigns across federal rulemaking dockets. Processes 211K+ public comments with Bronze/Silver/Gold Delta pipelines, Foundation Model embeddings, Vector Search, MLflow tracking, and a live Next.js dashboard. | Databricks · PySpark · Delta Lake · Unity Catalog · MLflow · Vector Search · Next.js |
-| 🧠 **[Brian: Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026. Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval for GitHub, Slack, and meeting transcript workflows. | LangGraph · FastAPI · pgvector · MCP · TypeScript |
-| 🚨 **[HazAlert: Multilingual AI Emergency Dashboard](https://devpost.com/software/hazalert)** | 1st Place at Commit the Change x Google Gemini Prompt-a-Thon. Voice-first emergency dashboard combining 11 Google Cloud and Gemini AI services for evacuation routing, translation, and accessibility-focused disaster response. | Gemini API · GCP · React · Maps APIs · Translation |
-| 🚁 **[UAV Forge Perception](https://github.com/uci-uav-forge)** | Fine-tuned YOLO improving aerial detection by 32%; integrated Vision Transformer-based depth estimation for real-time 3D point cloud generation on low-power edge flight hardware. | PyTorch · OpenCV · YOLO · Computer Vision |
-| 🛰️ **[UCI CanSat 2025-26](https://github.com/mukund-setti/UCI-CanSat-25-26)** | Real-time PyQt5 telemetry dashboard + STM32/ESP32 embedded firmware for payload control, sensor fusion, flight-state management, and fault recovery. | Python · C/C++ · Embedded · PyQt5 |
-| 😀 **[Emotion Detection](https://github.com/lumakyns/EmotionFacialDetection)** | 83.3% accuracy on 13K+ images using SVM+HOG and CNN models; outperformed DeepFace baseline by 15%. | PyTorch · scikit-learn · OpenCV |
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect & Network
 
 <div align="center">
   <a href="https://mukundummadisetti.vercel.app/" target="_blank">
