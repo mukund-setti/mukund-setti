@@ -15,6 +15,7 @@
 - 🎓 **CS @ UC Irvine** (Regents' Scholar, 3.75 GPA), graduating December 2026
 - 🧱 Building **data + AI systems** with Databricks, PySpark, Delta Lake, MLflow, and Vector Search
 - 🤖 Building **autonomous agentic systems** with LangGraph, MCP, and hybrid retrieval
+- ⚡ Building **LLM infrastructure** in Go: inference gateways with semantic caching and batching
 - 🔬 Researching **HCI tools for blind developers** @ UCI
 - 🛰️ Co-authoring a **NASA L'SPACE** mission proposal for autonomous proximity operations
 - 🚁 Computer Vision Engineer @ **UAV Forge**: fine-tuning YOLO + VGGT for aerial detection
@@ -66,20 +67,20 @@
 
 ### Data & Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,aws,linux&perline=3" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,docker,postgres,redis,aws,linux&perline=4" />
 </div>
 <div align="center">
-  <sub>Databricks · PySpark · Delta Lake · MLflow · REST APIs · OAuth 2.0</sub>
+  <sub>Databricks · PySpark · Delta Lake · MLflow · Prometheus · Grafana · OAuth 2.0</sub>
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nodejs,git&perline=4" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,react,nodejs,git&perline=5" />
 </div>
 <div align="center">
-  <sub>Python · TypeScript · Java · C/C++ · SQL</sub>
+  <sub>Python · TypeScript · Go · Java · C/C++ · SQL</sub>
 </div>
 
 </td></tr></table>
@@ -90,6 +91,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| ⚡ **[Velo: LLM Inference Gateway](https://velocity-dashboard-omega.vercel.app/)** | Self-hostable, OpenAI-compatible LLM gateway in Go. Semantic prompt caching (pgvector), request micro-batching, per-key Redis rate limiting, and multi-backend failover, instrumented with Prometheus and Grafana. Benchmarked on the real stack at 60% prompt reuse: 130% more requests per second and 84% lower p50 latency. | Go · pgvector · Redis · Prometheus · Docker |
 | 🧱 **[Astroturf: Regulatory Intelligence Platform](https://astroturflive.vercel.app/)** | Databricks-backed multi-agent lakehouse platform for detecting coordinated public comment campaigns across federal rulemaking dockets. Processes 211K+ public comments with Bronze/Silver/Gold Delta pipelines, Foundation Model embeddings, Vector Search, MLflow tracking, and a live Next.js dashboard. | Databricks · PySpark · Delta Lake · Unity Catalog · MLflow · Vector Search · Next.js |
 | 🧠 **[Brian: Enterprise Agent Memory](https://devpost.com/software/brian-vuscez)** | LA Hacks 2026. Reader/Writer agents over org data with MCP server + hybrid vector/BM25 retrieval for GitHub, Slack, and meeting transcript workflows. | LangGraph · FastAPI · pgvector · MCP · TypeScript |
 | 🚨 **[HazAlert: Multilingual AI Emergency Dashboard](https://devpost.com/software/hazalert)** | 1st Place at Commit the Change x Google Gemini Prompt-a-Thon. Voice-first emergency dashboard combining 11 Google Cloud and Gemini AI services for evacuation routing, translation, and accessibility-focused disaster response. | Gemini API · GCP · React · Maps APIs · Translation |
