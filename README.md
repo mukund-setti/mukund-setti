@@ -20,7 +20,7 @@ I am a Computer Science student at UC Irvine specializing in distributed data sy
 - 💼 **Industry Experience:** Previously Software Engineering Intern @ **Wells Fargo**, shipping secure, high-coverage consumer APIs
 - 🔬 **Research & Leadership:** Computer Vision Engineer @ **UAV Forge**, Proposal Fellow for **NASA L'SPACE**, and HCI researcher for accessibility development tooling @ UCI
 - 👨‍🏫 **Mentorship:** Undergraduate Teaching Assistant / Learning Assistant for computer science courses @ UCI
-- 🌐 **Portfolio:** [mukundummadisetti.vercel.app](https://mukundummadisetti.vercel.app/)
+- 🌐 **Portfolio:** [mukundummadisetti.vercel.app](https://mukundummadisetti.com/)
 - 📫 **Reach Me:** [Mukund.setti@gmail.com](mailto:Mukund.setti@gmail.com)
 
 ---
